@@ -1,5 +1,5 @@
 # FCD
-Fast Checkerboard Demodulation (FCD) for Synthetic Schlieren imaging
+Fast Checkerboard Demodulation (FCD) for Synthetic Schlieren imaging. All code here written by S. Wildeman.
 
 # Usage
 For all functions to work properly the scripts in sub-directory **./general** should be on your MATLAB path. Usage examples are found in the **./examples** sub-directory. Type `help functionname` on the MATLAB prompt for function specific usage info (or see the comments inside the function file).
