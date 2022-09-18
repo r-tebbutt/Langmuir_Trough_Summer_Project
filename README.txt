@@ -10,7 +10,7 @@ find the surface tension of the fluid based on how the curvature of the fluid su
 compared to a uniform, flat reference checkerboard image. The idea behind the device is that is cheap, simple and can be printed by anyone anywhere and easily set up. The most expensive part is the camera lens, whereas 
 other surface tension measuring instruments cost lots more money.
 
-The project was initially undertaken by Harry McMullan as a physics Part III project at Cambridge university. It has since been carried on by Robson Tebbutt, a Part II student, as a summer project.
+The project was initially undertaken by Harry McMullan as a physics Part III project at Cambridge university. It has since been carried on by Robson Tebbutt, a Part II student, as a summer project. Code written by Harry is commented with '%[HM]'.
 Pietro Cicuta is the project supervisor.
 
 The project's codebase is written in MATLAB, following from the MATLAB library used to perform the Fast Checkerboard Demodulation processes written by S. Wildeman: https://github.com/swildeman/fcd
